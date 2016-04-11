@@ -1,0 +1,18 @@
+{
+  "name": "Nate",
+  "homepage": "https://github.com/webernathan/Big_Data",
+  "description": "Big Data",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^2.2.3",
+    "d3": "^3.5.16"
+  }
+}
